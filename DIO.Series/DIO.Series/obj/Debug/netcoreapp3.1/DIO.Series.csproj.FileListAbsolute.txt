@@ -1,0 +1,13 @@
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\valdeir\Desktop\WorkSpace\DIO.Series\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
